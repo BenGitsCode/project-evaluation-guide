@@ -1,0 +1,43 @@
+﻿REPO: <link>
+DEPLOYED: <link>
+
+
+* README
+   * Contains link to deployed site
+   * Contains wireframes
+   * Contains project planning summary
+   * List technologies used
+   * List unsolved problems
+* Tic Tac Toe Game
+   * Switch turns between X and O
+   * Game board rendered in browser
+   * Display when a User wins or loses
+   * User can win by getting 3 in a row, 3 in a column or 3 diagonal 
+   * User can not select a space already occupied
+      * User receives an error if they choose an occupied space
+   * User can play another game after a game completes
+* Network Activity API Resource
+   * GET for viewing an already completed game(s) or game(s) in progress
+   * POST for starting a new game
+   * PATCH for making a move during a game
+* Authentication
+   * Only logged in users can play game
+   * User can sign up
+      * Display a message when signing up with an already taken username
+      * Display a message when signing up with password and confirmation that do not match
+   * User can sign in
+      * Display a message when user does not exist
+      * Display a message when password is incorrect
+   * User can change password
+      * Display a message when original password is incorrect
+   * User can sign out
+* Deployment
+   * Game is accessible by a URL
+   * Single page web app does not reload during use
+* No Visible, User-facing Errors
+   * All buttons and links perform expected user action
+   * All necessary messaging is on HTML page not in console
+Notes:
+
+
+Email Copy:
