@@ -11,12 +11,8 @@
 
 # Project Evaluation Guide
 
-### Project Presentation Order
-
--   Run `ruby random_order.rb developers.csv >
- <game|full-stack|group|capstone>-project-presentation-order.txt`.
--   Post presentation order file to project slack channel.
--   Commit the presentation order file to the cohort branch.
+- This outlines checklists for preparing project evaluation materials.
+- Up-to-date versions of each document should be downloaded here and imported into Google Drive.
 
 ## [License](LICENSE)
 
