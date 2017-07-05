@@ -3,7 +3,7 @@
 
 ## Table of Contents
 
-- [Game Project checklist](./game-project.md)
+- [Game Project checklist](./game-project/game-project.md)
 - [Full Stack Project checklist](./full-stack-project.md)
 - [Team Project checklist](./team-project.md)
 - [Capstone Project checklist](./game-project.md)
