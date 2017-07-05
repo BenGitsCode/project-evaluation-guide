@@ -3,10 +3,10 @@
 
 ## Table of Contents
 
-- [Game Project](./game-project.md)
-- [Full Stack Project](./full-stack-project.md)
-- [Team Project](./team-project.md)
-- [Capstone Project](./game-project.md)
+- [Game Project checklist](./game-project.md)
+- [Full Stack Project checklist](./full-stack-project.md)
+- [Team Project checklist](./team-project.md)
+- [Capstone Project checklist](./game-project.md)
 - [License](#license)
 
 # Project Evaluation Guide
